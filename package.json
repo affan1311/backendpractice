@@ -1,0 +1,19 @@
+{
+  "name": "firstclass",
+  "version": "1.0.0",
+  "description": "just for practice and fun",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "chai",
+    "node"
+  ],
+  "author": "affan hyder",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  }
+}
